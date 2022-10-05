@@ -1,3 +1,3 @@
 # Proyecto-Web
 
-Una web que hice creada con HTML y CSS para el curso de 1º de DAM
+Web realizada con HTML y CSS para la asignatura Lenguaje de marcas del grado superior Desarrollo de Aplicaciones Multiplataforma.
